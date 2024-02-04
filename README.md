@@ -1,2 +1,2 @@
 # portfolio-demo
-This website is made with Html and CSS advance conceptss.
+This website is made with Html and CSS advance concepts.
